@@ -1,1 +1,6 @@
 flask
+basic-pitch
+yt-dlp
+numpy
+scipy
+mido
